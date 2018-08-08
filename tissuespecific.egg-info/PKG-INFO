@@ -1,0 +1,14 @@
+Metadata-Version: 1.1
+Name: tissuespecific
+Version: 0.3
+Summary: Reconstruction and analysis of tissue-specific metabolic models
+Home-page: https://github.com/Andr3aCbb/tissuespecific
+Author: ACabbia
+Author-email: a.cabbia@tue.nl
+License: MIT
+Description: UNKNOWN
+Platform: UNKNOWN
+Classifier: Development Status :: 3 - Alpha
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Topic :: Metabolic-modelling :: Metabolic-engineering

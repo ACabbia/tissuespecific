@@ -1,0 +1,7 @@
+tissuespecific package installation help:
+
+Requires: Python 3.5 / 3.6
+
+
+cd /tissuespecific   ### <- the folder containing 'setup.py'
+sudo pip3 install -e .
